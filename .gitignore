@@ -1,0 +1,21 @@
+# ROS 2 build artifacts
+build/
+install/
+log/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Gazebo cache
+~/.gazebo/
+~/.ignition/
+
+# Camera logs
+camera_logs/
+
+# OS files
+.DS_Store
